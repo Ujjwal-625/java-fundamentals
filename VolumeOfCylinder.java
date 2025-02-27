@@ -9,7 +9,7 @@ class VolumeOfCylinder{
 	System.out.println("Enter the radius of Cylinder");
 	float radius= sc.nextFloat();
 	double ans=Math.PI * radius *radius *height;
-	System.out.println("Volume of the Cylinder with height" +height +" radius "+ r " is " + ans);
+	System.out.println("Volume of the Cylinder with height" +height +" radius "+ radius +" is " + ans);
 
 	}
 }
